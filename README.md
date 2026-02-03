@@ -11,6 +11,7 @@ cybersecurity enthusiast / ctf player
 
 ### Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gafnaa/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=blue)](https://gafnaworks.my.id/)
 
 
 
