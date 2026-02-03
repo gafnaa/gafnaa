@@ -12,7 +12,8 @@ cybersecurity enthusiast / ctf player
 ### Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gafnaa/)
 
-### GitHub Stats
+
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=gafnaa&color=blue&style=flat)
 [![](https://visitcount.itsvg.in/api?id=gafnaa&icon=0&color=0)](https://visitcount.itsvg.in)
 
