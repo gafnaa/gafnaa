@@ -1,6 +1,6 @@
 ## Hi, there! 👋  
 
-a person who enjoys building things, exploring cybersecurity, and turning ☕ into code! 
+a person who enjoys building things, exploring cybersecurity, and turning ☕ into code. 
 
 <!-- 
 ### Tech Stack
