@@ -2,6 +2,8 @@
 
 a person who enjoys building things, exploring cybersecurity, and turning ☕ into code. 
 
+![Project Demo](assets/cat.gif)
+
 <!-- 
 ### Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
