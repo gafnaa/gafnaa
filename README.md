@@ -1,6 +1,6 @@
 ## Hi, there! 👋  
 
-<img src="./assets/cat.gif" width="200" alt="Demo GIF">
+<img src="./assets/cat.gif" width="180" style="border-radius: 15px;" alt="Demo GIF">
 
 <!-- 
 ### Tech Stack
