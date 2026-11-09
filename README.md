@@ -1,7 +1,8 @@
 ## Hi, there! 👋  
 
 <img src="./assets/cat.gif" width="150" style="border-radius: 15px;" alt="Demo GIF">
-front end dev
+frontend dev
+
 <!-- 
 ### Tech Stack
 a person who enjoys building things, exploring cybersecurity, and turning ☕ into code. 
